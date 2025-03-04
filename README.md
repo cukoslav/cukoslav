@@ -24,4 +24,5 @@ And of course, I’m always on the lookout for bugs 🐞 — they don’t stand 
 Let’s connect! Feel free to reach out if you want to chat about testing, bugs, or how to turn coffee into code ☕💻.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svetoslav-kamenov-a60a94350/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubProfile)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cukoslav)
+
