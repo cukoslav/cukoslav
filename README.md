@@ -8,7 +8,7 @@
   *I’m currently gathering all the knowledge to make some truly mind-blowing projects! Stay tuned, because soon I’ll be automating everything from websites to... well, robots. The future is now! 🤖✨*
 
 ## 🛠️ Technologies and Skills
-- **Automation**: Selenium WebDriver 🧑‍💻  
+- **Automation**: Selenium WebDriver, Playwright 🧑‍💻  
 - **API Testing**: Postman 📬, Restful APIs 🔑  
 - **Performance Testing**: JMeter 📊, K6 ⚡  
 - **CI/CD**: GitHub Actions 🔄, Jenkins 🏃  
