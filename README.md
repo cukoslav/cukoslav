@@ -4,8 +4,22 @@
 💡 After completing an intense **QA Automation program** at **SoftUni**,I’ve gained hands-on experience in manual testing 📝, Selenium WebDriver 🧑‍💻, Postman 📬, JMeter 🚀, and CI/CD practices using GitHub Actions and Jenkins, and I’m constantly improving my skills in these areas.! Ready to catch all those pesky bugs 🐞 and squash them!
 
 ## 🔥 Projects
-- **Pending...**  
-  *I’m currently gathering all the knowledge to make some truly mind-blowing projects! Stay tuned, because soon I’ll be automating everything from websites to... well, robots. The future is now! 🤖✨*
+
+Here are some of the projects I am working on:
+
+- [**SinglePageApp-Test-QUnit-Playwright**](https://github.com/cukoslav/SinglePageApp-Test-QUnit-Playwright) - A simple single-page app tested with QUnit and Playwright.
+- [**JavaScript-Async-Functions-Exarcise-21-05-2024**](https://github.com/cukoslav/JavaScript-Async-Functions-Exarcise-21-05-2024) - Example exercises for JavaScript async functions.
+- [**QA-Automation-ExamPrep-19-04-24**](https://github.com/cukoslav/QA-Automation-ExamPrep-19-04-24) - Project for QA Automation exam preparation.
+- [**FoodReviewTests_18-8-2024**](https://github.com/cukoslav/FoodReviewTests_18-8-2024) - Automated tests for a food review web app.
+- [**JsonPlaygorund**](https://github.com/cukoslav/JsonPlaygorund) - A JSON playground to test and manipulate JSON data.
+  
+## 🌟 Starred Repositories
+
+Here are some of the repositories I have starred based on my interests and ongoing work:
+
+- [**hrs-app**](https://github.com/cukoslav/hrs-app) - Human resources management system.
+- [**postman**](https://github.com/cukoslav/postman) - Postman collections and examples.
+- [**Exam-prep-19-04-24**](https://github.com/cukoslav/Exam-prep-19-04-24) - Study resources for automation testing.
 
 ## 🛠️ Technologies and Skills
 - **Automation**: Selenium WebDriver, Playwright 🧑‍💻  
