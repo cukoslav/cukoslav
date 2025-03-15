@@ -20,7 +20,6 @@ Here are some of the projects I am working on:
 Here are some of the repositories I have starred based on my interests and ongoing work:
 
 - [**hrs-app**](https://github.com/cukoslav/hrs-app) - Human resources management system.
-- [**postman**](https://github.com/cukoslav/postman) - Postman collections and examples.
 - [**Exam-prep-19-04-24**](https://github.com/cukoslav/Exam-prep-19-04-24) - Study resources for automation testing.
 
 ## 🛠️ Technologies and Skills
