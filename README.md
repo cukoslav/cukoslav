@@ -12,6 +12,8 @@ Here are some of the projects I am working on:
 - [**QA-Automation-ExamPrep-19-04-24**](https://github.com/cukoslav/QA-Automation-ExamPrep-19-04-24) - Project for QA Automation exam preparation.
 - [**FoodReviewTests_18-8-2024**](https://github.com/cukoslav/FoodReviewTests_18-8-2024) - Automated tests for a food review web app.
 - [**JsonPlaygorund**](https://github.com/cukoslav/JsonPlaygorund) - A JSON playground to test and manipulate JSON data.
+- [**PostmanTestPojects**](https://github.com/cukoslav/PostmanTestPojects) - A collection of Postman tests for different API projects.
+
   
 ## 🌟 Starred Repositories
 
